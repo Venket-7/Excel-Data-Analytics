@@ -1,0 +1,41 @@
+Executive KPI's,,,,,Sales and Profit by Region,,,,,Monthly Sales & Profit Trend,,
+Sum of Sales,Sum of Profit,Sum of Quantity,Count of Order ID,,Row Labels,Sum of Sales,Sum of Profit,,,Row Labels,Sum of Sales,Sum of Profit
+?2.51 B,?375.53 M,549376,100000,,East,?635.32 M,?95.15 M,,,2019,?494.42 M,?74.13 M
+,,,,,North,?624.45 M,?93.10 M,,,2020,?505.20 M,?75.69 M
+Sales and Profit by Category,,,,,South,?629.06 M,?94.22 M,,,2021,?505.47 M,?75.59 M
+Row Labels,Sum of Sales,Sum of Profit,,,West,?619.61 M,?93.06 M,,,2022,?499.22 M,?74.53 M
+Dairy Products,?418.01 M,?62.59 M,,,Grand Total,?2.51 B,?375.53 M,,,2023,?504.12 M,?75.59 M
+Electric Appliances,?418.83 M,?62.70 M,,,,,,,,Grand Total,?2.51 B,?375.53 M
+Fast Food,?417.85 M,?62.79 M,,,Sales and Profit by Customer Segment,,,,,,,
+Furniture,?414.02 M,?61.81 M,,,Row Labels,Sum of Sales,Sum of Profit,,,Discount vs Probability,,
+Household Items,?419.79 M,?62.87 M,,,Consumer,?1.25 B,?187.78 M,,,Row Labels,Sum of Sales,Sum of Profit
+Sessional Fruits & Vegetables,?419.94 M,?62.77 M,,,Corporate,?1.26 B,?187.75 M,,,0–10%,?518.50 M,?98.25 M
+Grand Total,?2.51 B,?375.53 M,,,Grand Total,?2.51 B,?375.53 M,,,10–20%,?502.84 M,?84.76 M
+,,,,,,,,,,20–30%,?498.46 M,?74.16 M
+Sub Category Performance,,,,,Outlet Performance,,,,,30–40%,?507.63 M,?65.57 M
+Row Labels,Sum of Sales,Sum of Profit,,,Row Labels,Sum of Sales,Sum of Profit,Count of Order ID,,40%+,?481.02 M,?52.79 M
+Apples,?104.72 M,?15.64 M,,,Large,?841.02 M,?125.43 M,33497,,Grand Total,?2.51 B,?375.53 M
+Beds,?104.43 M,?15.60 M,,,Medium,?840.95 M,?126.14 M,33512,,,,
+Buckets,?103.12 M,?15.48 M,,,Small,?826.47 M,?123.96 M,32991,,,,
+Burgers,?105.36 M,?15.83 M,,,Grand Total,?2.51 B,?375.53 M,100000,,Total Customers,100000,
+Butter,?104.33 M,?15.72 M,,,,,,,,Total Orders,100000,
+Carrots,?107.52 M,?16.14 M,,,City Type Performance,,,,,Profit Margin,15%,
+Chairs,?99.50 M,?14.91 M,,,Row Labels,Sum of Sales,Sum of Profit,Count of Order ID,,,,
+Cheese,?105.34 M,?15.77 M,,,Tier 1,?844.42 M,?126.51 M,33671,,,,
+Detergents,?103.26 M,?15.43 M,,,Tier 2,?835.44 M,?124.68 M,33274,,,,
+Fans,?103.01 M,?15.40 M,,,Village,?828.59 M,?124.34 M,33055,,,,
+Fries,?104.75 M,?15.69 M,,,Grand Total,?2.51 B,?375.53 M,100000,,,,
+Mangoes,?103.84 M,?15.51 M,,,,,,,,,,
+Microwaves,?105.81 M,?16.08 M,,,,,,,,,,
+Milk,?105.82 M,?15.78 M,,,,,,,,,,
+Mops,?109.57 M,?16.40 M,,,,,,,,,,
+Pizzas,?105.70 M,?15.82 M,,,,,,,,,,
+Refrigerators,?105.11 M,?15.65 M,,,,,,,,,,
+Sandwiches,?102.04 M,?15.45 M,,,,,,,,,,
+Sofas,?105.50 M,?15.79 M,,,,,,,,,,
+Tables,?104.58 M,?15.51 M,,,,,,,,,,
+Tomatoes,?103.87 M,?15.48 M,,,,,,,,,,
+Utensils,?103.84 M,?15.57 M,,,,,,,,,,
+Washing Machines,?104.90 M,?15.56 M,,,,,,,,,,
+Yogurt,?102.52 M,?15.32 M,,,,,,,,,,
+Grand Total,?2.51 B,?375.53 M,,,,,,,,,,
