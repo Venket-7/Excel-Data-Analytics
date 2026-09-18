@@ -118,11 +118,11 @@ An Excel-based retail analytics project focused on **sales, profitability, custo
 
 ### BlinkIT Grocery Retail Analytics
 
-![BlinkIT Grocery Dashboard](01-BlinkIT-Grocery-Retail-Analytics/dashboard.png)
+![BlinkIT Grocery Dashboard](Blinkit-Grocery-Retail-Analytics/dashboard.png)
 
 ### Retail Store Sales & Profitability Analytics
 
-![Retail Store Dashboard](02-Retail-Store-Sales-Profitability-Analytics/dashboard.png)
+![Retail Store Dashboard](Retail-Store-Sales-Profitability-Analytics/dashboard.png)
 
 ---
 
